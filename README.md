@@ -1,0 +1,2 @@
+# NiceRepository
+A nice repository
